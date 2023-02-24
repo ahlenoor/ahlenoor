@@ -1,6 +1,6 @@
 EDUCATION
 
-Data Science Bootcamp, Jovian (https://jovian.com/ahlenoorkhan)                        Jun 2022 - Ongoing
+Data Science Bootcamp, Jovian (https://jovian.com/ahlenoorkhan)                        Jun 2022 - Ongoing.
 
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 
@@ -34,6 +34,7 @@ Built functions such as get_books_title, get_author_name, etc. to scrape book's 
 
 Stored data consisting of 100 rows and 6 columns into amazon-bestseller-books.csv file
 
+
 SQL Querying on Chinook Dataset (https://jovian.com/ahlenoorkhan/sql-practice-assignment)
 
 Worked on Chinook database using SQLite database engine and SQLAlchemy library of Python
@@ -41,6 +42,7 @@ Worked on Chinook database using SQLite database engine and SQLAlchemy library o
 Used Order, Count, Aggregation, Joins and Grouping functions for querying & filtering the data
 
 Identified top tracks, albums, average tracks per album etc. insights from the querying
+
 
 Online Publication of Tableau Dashboard (https://public.tableau.com/views/Assignment4_16605683575180/Assignment4?:language=en-US&:display_count=n&:origin=viz_share_link)
 
@@ -50,11 +52,13 @@ Established relationship between book’s popularity, ratings and debut authors 
 
 Created interactive dashboard using scatter plot and bar charts to derive interesting insights 
 
+
 SKILLS & CERTIFICATIONS
 
 Courses: Product Design and Analysis using Catia and Ansys (https://drive.google.com/file/d/0B89PhbR67SMsX3RzUnNMY0Z1eEdEM2Zyd2htOVJzeEUzRDlv/view?usp=sharing&resourcekey=0-BTP3YmQm5Qo0hICWAbrj7A)
 
 Skills: SQL, Presentation, Numpy, Pandas, Python, Excel, Tableau, Matplotlib, Seaborn, Plotly
+
 
 WORK EXPERIENCE
 
@@ -65,6 +69,7 @@ Follow up, guide the contractors and inspect the quality of work done , prepare 
 Clients are GE Power (I) Ltd and BBE Solutions India Pvt Ltd. Helped in increasing the production output 
 
 Increased production by 50 MT, 25% increment in salary within 5 months
+
 
 Customer Support Executive (Email) - Reliance SMSL Limited                                  (2018 -  2019)
 
