@@ -15,9 +15,9 @@ EDUCATION
      Highlights: 2nd in the class, Major Project on VTOL aircraft
 
 
-PROJECTS (https://jovian.com/ahlenoorkhan/eda-project-data-analysis-of-indian-companies-registered-since-1857#C68)
+PROJECTS (https://jovian.com/ahlenoorkhan)
 
-   Exploratory Data Analysis of Indian Companies Registered Since 1857 (https://jovian.com/ahlenoorkhan/eda-project-data-analysis-of-indian-companies-registered-since-1857#C68)
+   Exploratory Data Analysis of Indian Companies Registered Since 1857 (https://medium.com/@ahlenoorkhan/my-first-data-science-project-web-scraping-using-python-b05f96f0777f)
 
      Analysis of Kaggle dataset on master details of nearly 2 million companies spread across 17 columns
 
