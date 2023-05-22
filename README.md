@@ -53,13 +53,6 @@ PROJECTS (https://jovian.com/ahlenoorkhan)
      Created interactive dashboard using scatter plot and bar charts to derive interesting insights 
 
 
-SKILLS & CERTIFICATIONS
-
-   Courses: Product Design and Analysis using Catia and Ansys (https://drive.google.com/file/d/0B89PhbR67SMsX3RzUnNMY0Z1eEdEM2Zyd2htOVJzeEUzRDlv/view?usp=sharing&resourcekey=0-BTP3YmQm5Qo0hICWAbrj7A)
-
-     Skills: SQL, Presentation, Numpy, Pandas, Python, Excel, Tableau, Matplotlib, Seaborn, Plotly
-
-
 WORK EXPERIENCE
 
    Project Engineer - Fresco Radiators Pvt. Ltd.                                              (2020 - 2021)
@@ -71,10 +64,24 @@ WORK EXPERIENCE
      Increased production by 50 MT, 25% increment in salary within 5 months
 
 
-   Customer Support Executive (Email) - Reliance SMSL Limited                                  (2018 -  2019)
+   Customer Support Executive (Email) - Reliance SMSL Limited                                  (2018 - 2019)
 
      Efficiently resolving issues, responding to inquiries and maintaining records 
 
      Quickly and accurately answered questions, suggested effective solutions
 
      Answered average of 50 emails per day, increase in customer satisfaction and retention
+     
+     
+   Production Supervisor - Sarah Plastics                                                      (2016 - 2017)
+     
+     Handling of manpower and resources to maintain quality and increase the production output
+     
+     Recycling of 20 MT of plastics per month
+
+
+SKILLS & CERTIFICATIONS
+
+   Courses: Product Design and Analysis using Catia and Ansys (https://drive.google.com/file/d/0B89PhbR67SMsX3RzUnNMY0Z1eEdEM2Zyd2htOVJzeEUzRDlv/view?usp=sharing&resourcekey=0-BTP3YmQm5Qo0hICWAbrj7A)
+
+     Skills: SQL, Presentation, Numpy, Pandas, Python, Excel, Tableau, Matplotlib, Seaborn, Plotly
