@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahlenoor Khan</h1>
 <h3 align="center">I'm passionate about data science and machine learning.</h3>
 
-- 🌱 I’m currently **enhancing my data science and machine learning skills through Jovian Data Science and Machine Learning Bootcamp.**
+- 🌱 I’m currently **enhancing my data science and machine learning skills through Jovian's Data Science and Machine Learning Bootcamp.**
 
 - 👨‍💻 All of my projects are available at [https://jovian.com/ahlenoorkhan](https://jovian.com/ahlenoorkhan)
 
