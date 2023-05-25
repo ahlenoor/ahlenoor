@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1qh68rh8zLPQx0BbHsrYrso36Ys3oZv8EKMBiRwjeD4M/edit?usp=share_link](https://docs.google.com/document/d/1qh68rh8zLPQx0BbHsrYrso36Ys3oZv8EKMBiRwjeD4M/edit?usp=share_link)
 
-<img align="right" alt="image" height="200" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="gif_image" height="190" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
