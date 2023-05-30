@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jovian.com/ahlenoorkhan](https://jovian.com/ahlenoorkhan)
 
-- 📝 I regularly write articles on [https://medium.com/@ahlenoorkhan](https://medium.com/@ahlenoorkhan)
+- 📝 I write articles on [https://medium.com/@ahlenoorkhan](https://medium.com/@ahlenoorkhan)
 
 - 📫 How to reach me **ahlenoorkhan@gmail.com**
 
